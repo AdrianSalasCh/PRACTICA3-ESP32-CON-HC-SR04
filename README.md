@@ -90,11 +90,11 @@ void loop()
       - **LiquidCrystal I2C**
    Como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA3-ESP32-CON-HC-SR04/blob/main/LiquidCrystal%20I2C%20P3.PNG)
 
 3. Hacer la conexion del HC-SR0 con la ESP32 y el LCD 16x2 (I2C) como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA3-ESP32-CON-HC-SR04/blob/main/CONEXION%20P3.PNG)
 
 ### Instrucciónes de operación
 
@@ -106,7 +106,7 @@ void loop()
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y en el LCD como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA3-ESP32-CON-HC-SR04/blob/main/SIMULACI%C3%93N%20TERMINADA%20P3.PNG)
 
 ## CRÉDITOS
 
